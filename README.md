@@ -4,7 +4,7 @@ Host Url Link :- https://gregarious-queijadas-505661.netlify.app/
 
 When you hit the url you will redirect to home page 
 
-![Preview  of Login](https://raw.githubusercontent.com/piyushhawq/Images/main/Dish-Poll%20-Login.png)
+![Preview  of Login](https://raw.githubusercontent.com/piyushhawq/Images/main/Warehouse%20Management.png)
 
 
 # How to view this project on your browser.

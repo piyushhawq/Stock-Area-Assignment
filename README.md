@@ -1,25 +1,17 @@
-<h1>Warehouse Mamagement</h1>
+# react-dishpoll
 
-<h5>A Warehouse management application where you can view all the warehouses, their details and edit those details.</h5>
+Host Url Link :- https://gregarious-queijadas-505661.netlify.app/
 
- <a href="https://gregarious-queijadas-505661.netlify.app/" target="_blank">Preview Here</a>
+When you hit the url you will redirect to home page 
 
-<h1>How to use</h1>
- Clone this repository
-$ git clone https://github.com/piyushhawq/Stock-Area-Assignment
+![Preview  of Login](https://raw.githubusercontent.com/piyushhawq/Images/main/Dish-Poll%20-Login.png)
 
-<h1>Go into the repository</h1>
-$ cd stock-area
 
-<h1>Remove current origin repository</h1>
-$ git remote remove origin
+# How to view this project on your browser.
+- Download zip file in my git repo 
+- Extract all zip folder
+- Open project in VS Code or amy other code editor 
+- Goto new terminal 
+- Run "npm install" command to install required dependencies
+- Run "npm start" to view the web page locally at  http://localhost:3000 in the browser
 
-Then you can install the dependencies
-
-Using NPM:
-<h1>Install dependencies</h1>
-$ npm install
-
-Then run the Project
-<h1>Run project</h1>
-$ npm start

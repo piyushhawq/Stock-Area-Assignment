@@ -6,7 +6,7 @@
 
 <h1>How to use</h1>
  Clone this repository
-$ git clone https://github.com/DikshaKatyura/stock-area.git
+$ git clone https://github.com/piyushhawq/Stock-Area-Assignment
 
 <h1>Go into the repository</h1>
 $ cd stock-area
